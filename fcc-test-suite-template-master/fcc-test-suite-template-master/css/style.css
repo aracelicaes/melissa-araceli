@@ -5,6 +5,9 @@ body {
     color: white;
     font-size: 16px;
 }
+a {
+    color: white;
+}
 main {
     background-color: darkgreen;
 }
