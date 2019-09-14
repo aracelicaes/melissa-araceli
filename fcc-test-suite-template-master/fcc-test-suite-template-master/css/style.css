@@ -19,7 +19,7 @@ main {
 }
 
 #image{
-    width: auto;
+    max-width: 100%;
     align-content: center;
 }
 
